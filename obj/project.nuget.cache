@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CvUWiJTXP5A=",
+  "dgSpecHash": "csVmnSJaeJs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pichau\\Documents\\LP\\AS\\AS.csproj",
+  "projectFilePath": "C:\\Users\\pichau\\Documents\\LP\\ASLabProg\\ASLabProg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pichau\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\pichau\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.7\\microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",

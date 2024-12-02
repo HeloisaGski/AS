@@ -3684,11 +3684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pichau\\Documents\\LP\\AS\\AS.csproj",
-      "projectName": "AS",
-      "projectPath": "C:\\Users\\pichau\\Documents\\LP\\AS\\AS.csproj",
+      "projectUniqueName": "C:\\Users\\pichau\\Documents\\LP\\ASLabProg\\ASLabProg.csproj",
+      "projectName": "ASLabProg",
+      "projectPath": "C:\\Users\\pichau\\Documents\\LP\\ASLabProg\\ASLabProg.csproj",
       "packagesPath": "C:\\Users\\pichau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pichau\\Documents\\LP\\AS\\obj\\",
+      "outputPath": "C:\\Users\\pichau\\Documents\\LP\\ASLabProg\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
